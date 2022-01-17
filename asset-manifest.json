@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-datainlife/static/css/main.327dac50.css",
+    "main.js": "/test-datainlife/static/js/main.ca71de5e.js",
+    "static/js/787.1f89440c.chunk.js": "/test-datainlife/static/js/787.1f89440c.chunk.js",
+    "index.html": "/test-datainlife/index.html",
+    "main.327dac50.css.map": "/test-datainlife/static/css/main.327dac50.css.map",
+    "main.ca71de5e.js.map": "/test-datainlife/static/js/main.ca71de5e.js.map",
+    "787.1f89440c.chunk.js.map": "/test-datainlife/static/js/787.1f89440c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327dac50.css",
+    "static/js/main.ca71de5e.js"
+  ]
+}
