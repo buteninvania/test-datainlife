@@ -10,7 +10,7 @@ export const TableRowCC: React.FC<TableRowCCPropsType> = ({rowData, chapterId}) 
     const dispatch = useDispatch()
 
     const onChangeCallBack = (value: string) => {
-        dispatch(changeAmountGoodsAC(chapterId, rowData.id, +value))
+        isFinite(+value) && dispatch(changeAmountGoodsAC(chapterId, rowData.id, +value))
         dispatch(calculateTotalAC())
     }
 
