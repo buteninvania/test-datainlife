@@ -2,7 +2,7 @@
   "name": "test-data-inlife",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://buteninvania.github.io/datainlife/",
+  "homepage": "https://buteninvania.github.io/test-datainlife/",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
